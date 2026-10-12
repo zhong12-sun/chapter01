@@ -11,12 +11,10 @@
     </div>
   </div>
 </template>
-
 <script setup>
 import {ref} from 'vue'
 const name = ref("钟利萍")
 </script>
-
 <style scoped>
 .container{
   display:flex;
