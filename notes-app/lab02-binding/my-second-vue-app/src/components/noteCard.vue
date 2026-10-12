@@ -65,10 +65,9 @@ show:true
 
 <style scoped>
 .note-card { border: 1px solid #42b883; padding: 10px 16px; border-radius: 6px; }
-/* 修改前 */
+
 .note-card { border: 1px solid #42b883; padding: 10px 16px; border-radius: 6px; }
 
-/* 修改后（新增第 2 行） */
 .note-card { border: 1px solid #42b883; padding: 10px 16px; border-radius: 6px; }
 .active { color: #42b883; font-weight: bold; }
 </style>
